@@ -1,0 +1,22 @@
+{
+    "$id": "https://example.com/product.schema.json",
+    "title": "User",
+    "description": "User model to use everywhere",
+    "type": "object",
+    "properties": {
+      "name": {
+        "description": "name",
+        "type": "string"
+      },
+      "favorite_number": {
+        "description": "number",
+        "type": "integer"
+      },
+      "favorite_color": {
+        "description": "color",
+        "type": "string"
+      }
+    },
+    "required": [ "name", "favorite_number", "favorite_color" ]
+}
+    
