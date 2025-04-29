@@ -1,0 +1,17 @@
+{
+    "kafka": {
+        "bootstrap_servers": [
+            "rc1a-o4g7fcanjd7fs4is.mdb.yandexcloud.net:9091",
+            "rc1b-22q642b86q01s0a9.mdb.yandexcloud.net:9091",
+            "rc1d-92h54uo603545euj.mdb.yandexcloud.net:9091"
+        ],
+        "topic": "task-1",
+        "user": "consumer",
+        "password": "password"
+    },
+    "schema_registry": {
+        "url": "https://srn8egdnvgiju4eee8q5.schema-registry.yandexcloud.net:443",
+        "user": "api-key",
+        "password": "..."
+    }
+}

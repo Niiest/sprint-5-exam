@@ -1,0 +1,23 @@
+{
+    "type": "record",
+    "name": "Record",
+    "namespace": "com.example",
+    "fields": [
+      {
+        "name": "name",
+        "type": "string",
+        "doc": "Field name in Record"
+      },
+      {
+        "name": "favorite_number",
+        "type": "int",
+        "doc": "Field favorite_number in Record"
+      },
+      {
+        "name": "favorite_color",
+        "type": "string",
+        "doc": "Field favorite_color in Record"
+      }
+    ],
+    "doc": "Record schema for Record"
+  }

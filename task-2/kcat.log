@@ -1,0 +1,57 @@
+> kcat -C \
+         -b rc1a-o4g7fcanjd7fs4is.mdb.yandexcloud.net:9091 \
+         -t task-1 \
+         -X security.protocol=SASL_SSL \
+         -X sasl.mechanism=SCRAM-SHA-512 \
+         -X sasl.username="consumer" \
+         -X sasl.password="password" \
+         -X ssl.ca.location=/usr/local/share/ca-certificates/Yandex/YandexInternalRootCA.crt -Z -K:
+
+Jane Smith56Jane Smith56pcolor56
+Jane Smith97Jane Smith97�color97
+Jane Smith19Jane Smith19&color19
+Jane Smith55Jane Smith55ncolor55
+Jane Smith12Jane Smith12color12
+% Reached end of topic task-1 [1] at offset 37
+% Reached end of topic task-1 [0] at offset 49
+% Reached end of topic task-1 [2] at offset 35
+Jane Smith86Jane Smith86�color86
+Jane Smith41Jane Smith41Rcolor41
+Jane Smith27Jane Smith276color27
+Jane Smith22Jane Smith22,color22
+Jane Smith74Jane Smith74�color74
+% Reached end of topic task-1 [0] at offset 51
+% Reached end of topic task-1 [1] at offset 38
+% Reached end of topic task-1 [2] at offset 37
+Jane Smith48Jane Smith48`color48
+Jane Smith15Jane Smith15color15
+Jane Smith61Jane Smith61zcolor61
+Jane Smith40Jane Smith40Pcolor40
+Jane Smith21Jane Smith21*color21
+% Reached end of topic task-1 [0] at offset 52
+% Reached end of topic task-1 [2] at offset 41
+Jane Smith98Jane Smith98�color98
+Jane Smith56Jane Smith56pcolor56
+Jane Smith1Jane Smith1
+                      color1
+Jane Smith21Jane Smith21*color21
+Jane Smith79Jane Smith79�color79
+% Reached end of topic task-1 [0] at offset 53
+% Reached end of topic task-1 [1] at offset 40
+% Reached end of topic task-1 [2] at offset 43
+Jane Smith49Jane Smith49bcolor49
+Jane Smith61Jane Smith61zcolor61
+Jane Smith35Jane Smith35Fcolor35
+Jane Smith0Jane Smith0
+                      color0
+Jane Smith97Jane Smith97�color97
+% Reached end of topic task-1 [2] at offset 45
+% Reached end of topic task-1 [0] at offset 56
+Jane Smith78Jane Smith78�color78
+Jane Smith48Jane Smith48`color48
+Jane Smith53Jane Smith53jcolor53
+Jane Smith62Jane Smith62|color62
+Jane Smith19Jane Smith19&color19
+% Reached end of topic task-1 [0] at offset 58
+% Reached end of topic task-1 [1] at offset 42
+% Reached end of topic task-1 [2] at offset 46
